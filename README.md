@@ -20,7 +20,8 @@ The original solution used Amazon Web Services, but this solo iteration will be 
 
 The deadline for completion is the **end of September**.
 
-# Contributors
+# Original Contributors
+Below are the contributors to the original Totesys project.
 <table>
   <tr>
     <td align="center">
